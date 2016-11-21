@@ -2,8 +2,8 @@
   <library name="Mojarra-2.2.1" type="jsf">
     <properties version="2.2.1" />
     <CLASSES>
-      <root url="jar://$USER_HOME$/IdeaProjects/BankAccountDemo/lib/jstl-1.1.0.jar!/" />
-      <root url="jar://$USER_HOME$/IdeaProjects/BankAccountDemo/lib/javax.faces-2.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/wew/lib/jstl-1.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/wew/lib/javax.faces-2.2.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
